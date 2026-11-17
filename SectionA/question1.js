@@ -1,5 +1,5 @@
 // 1. Arithmetic & Modulus Operations
-/* Declare two variables price = 45 andquantity = 4 . Calculate and log:
+/* Declare two variables price = 45 and quantity = 4 . Calculate and log:
 Total cost (*)
 Discounted cost after subtracting 15 (-)
 Cost split equally among 3 friends (/)
