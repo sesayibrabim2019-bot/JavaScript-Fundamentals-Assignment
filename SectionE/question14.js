@@ -23,7 +23,7 @@ lecturersDb.push(
   {
     id: 2,
     fullName: "Samuel Amkam",
-    department: "DICT",
+    department: "BICT",
     phoneNumber: "077987654",
   },
   {
@@ -37,6 +37,4 @@ lecturersDb.push(
 console.log(lecturersDb);
 
 // Access and log only fullName and phoneNumber of second lecturer using template literal
-console.log(
-  `Second Lecturer: ${lecturersDb[1].fullName}, phone: ${lecturersDb[1].phoneNumber}`,
-);
+console.log( `Second Lecturer: ${lecturersDb[1].fullName}, phone: ${lecturersDb[1].phoneNumber}`,);
